@@ -1,5 +1,6 @@
-package entidades;
+package vistaConsola;
 
+import entidades.Estudiante;
 import institucion.PeriodoAcademico;
 import logica.*;
 import java.util.ArrayList;
